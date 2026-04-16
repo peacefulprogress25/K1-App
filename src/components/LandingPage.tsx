@@ -24,7 +24,7 @@ const SECTIONS = [
     prefix: "Money that",
     suffix: "creates energy.",
     subheading: "Energy that creates yield",
-    description: "K1 is a stablecoin that mobilizes global capital into energy infra. Making energy collateral for a new reserve currency.",
+    description: "K1 is a stablecoin that mobilizes global capital into energy infrastructure, transforming energy into collateral for a new reserve currency.",
     graphic: "sphere",
   },
   {
@@ -74,7 +74,7 @@ const FAQ_DATA = [
     question: "Is K1 audited?",
     answer: (
       <>
-        Yes. K1 is built on Ranger&apos;s Voltr architecture, which has undergone rigorous auditing. You can check{" "}
+        Yes. K1 underlying vault architecture is extensively audited. You can check{" "}
         <a
           href="/audits/certora-audit-report.pdf"
           target="_blank"
